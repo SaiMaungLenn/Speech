@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Polyglot TTS",
+  "description": "A high-fidelity text-to-speech generator powered by Gemini 2.5, featuring native support for Burmese and multiple voice personalities.",
+  "requestFramePermissions": []
+}
